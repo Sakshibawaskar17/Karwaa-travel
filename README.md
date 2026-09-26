@@ -25,7 +25,7 @@ A modern, responsive travel booking website inspired by **Karwaa Hospitality**, 
 ---
 
 ## 🚀 Live Demo
-🔗 [View Website](https://sakshibawaskar17.github.io/Karwaa-travel/)
+🔗 (https://sakshibawaskar17.github.io/Karwaa-travel/)
 
 ---
 
